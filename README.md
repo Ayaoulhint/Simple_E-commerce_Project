@@ -9,6 +9,4 @@ Run npm install – to install all dependencies.
 
 Run npm start – to start the app in development mode.
 
-Open http://localhost:3000 in your browser to view it.
-
 🛍️ It’s a small, basic project to practice React, with simple components and a cute pink aesthetic. Nothing complicated—just fun and style 💅
